@@ -17,7 +17,7 @@ public class Exercise10_03{
 
     }
 }
-
+//bink
 class MyInteger{
    private int value;
 
